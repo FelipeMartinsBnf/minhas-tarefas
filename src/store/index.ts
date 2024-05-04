@@ -1,4 +1,4 @@
-import { Store, configureStore } from '@reduxjs/toolkit'
+import { configureStore } from '@reduxjs/toolkit'
 import tarefasReducer from './reducers/tarefa'
 import filtroReducer from './reducers/filtro'
 
