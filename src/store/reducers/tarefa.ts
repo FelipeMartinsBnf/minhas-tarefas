@@ -24,10 +24,10 @@ const initialState: TarefasState = {
     },
     {
       id: 3,
-      descricao: 'Estudar ... b3',
+      descricao: 'Estudar ... TypeScript',
       prioridade: Enuns.Prioridade.IMPORTANTE,
       status: Enuns.Status.PENDENTE,
-      titulo: 'Estudar Grau de moto b3'
+      titulo: 'Estudar TypeScript'
     }
   ]
 }
